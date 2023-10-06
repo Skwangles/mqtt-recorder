@@ -1,5 +1,5 @@
 # mqtt-recorder
-Record MQTT publishes to be played back at a later time
+Record MQTT publishes to a CSV to be played back at a later time
 
 # Use
 Replace the values in the .env with your specifics
